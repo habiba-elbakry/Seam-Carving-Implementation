@@ -17,7 +17,7 @@ the implementation is done on a python jupyter notebook
 
 # implementation 2
 ### *after*
-![after](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/download.png)
+![after](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/carved_image%20(5).jpg)
 ### *seams visualization* 
-![seamedvisualization](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/download%20(1).png)
+![seamedvisualization](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/seams_visualization%20(4).jpg)
 
