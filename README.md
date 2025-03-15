@@ -9,3 +9,4 @@ before
 after
 ![seamedvisualization](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/seams_visualization%20(1).jpg)
 seams visualization 
+# implementation 2
