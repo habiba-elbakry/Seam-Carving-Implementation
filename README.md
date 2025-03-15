@@ -10,5 +10,5 @@ I have done two trials to this implementation and this is the results
 ![seamedvisualization](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/seams_visualization%20(1).jpg)
 *seams visualization* 
 # implementation 2
-![before]([https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/before(1).jpg](https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/before(2).jpg))
+![before]((https://github.com/habiba-elbakry/Seam-Carving-Implementation/blob/main/before(2).jpg))
 *before*
